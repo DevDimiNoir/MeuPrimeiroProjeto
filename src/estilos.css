@@ -1,0 +1,164 @@
+
+body{  
+    margin:0;
+    border:1px;
+    padding:0;
+    width:100% ;
+    height: 100%;
+}
+#bodyindex{
+    width: 1920px;
+    height: 1080px;   
+    background-image: url(rick2.jpg);
+    align-items: center;
+    justify-content: center;
+} 
+#hpgindex{
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width:100%;
+    width: 100%;
+    max-height: 10%;
+    height: 100%;
+    margin:0;
+    border:0;
+    padding:0;
+}
+#imgTopo{ 
+    width:100px;
+    height:100px;
+    border-radius: 100%;
+}
+h1{ color: rgb(166, 251, 9);
+    background-color:black;
+    font-size:80px;
+    display: flex;
+    letter-spacing: 2px;
+    justify-content: center;
+    align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin:0;
+    border:1px;
+    padding:0;
+}
+main{
+    max-width: 100%;
+    max-height: 85%;
+    width: 100%;
+    height: 100%;
+    margin:0;
+    border:1px;
+    padding:0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#divE{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(rick3.png);
+    border-radius: 100%;
+    width:500px;
+    height: 500px;
+    margin-left: 100px;
+    margin-bottom: 330px;
+    border:0;
+    padding:0;
+    opacity: 85%;
+
+}
+#divC{
+    align-items: center; 
+    justify-content: center; 
+    margin:0;
+    border:1px;
+    padding:0;
+    margin-right: 200px;
+
+}
+text{
+    width: 450px;
+    height: 500px;
+    border-radius: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    color: rgb(166, 251, 9);
+    text-shadow:#000 15px 10px 5px ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1px;
+    
+}
+#botao{
+    margin-top: 100px;
+    margin-right: 10px;
+    border-color: black;
+    font-size: 80px;
+    font-family:fantasy ;
+    width:250px;
+    height:250px;
+    border-radius:100%;
+    color: rgb(5, 174, 200);
+    background-color: rgb(166, 251, 9);
+}
+footer{
+    background-color: black;
+    max-width:100%;
+    width:100%;
+    max-height:5%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0;
+    border:0;
+    padding:0;
+}
+h6{
+    font-size:18px;
+    color: rgb(166, 251, 9);
+    letter-spacing: 2px;
+}
+#home{
+    background-color: black;
+    color: white;
+    width:300px;
+    height:300px;
+    border-radius:100%;
+    font-size: 100px;
+
+}
+#bodypg2{
+    background-image: url(rick.jpg);
+    justify-content:center;
+    align-items: center;
+}
+#divpg2{ background-image: url(rick.jpg);
+    justify-content:center;
+    align-items: center;
+    display: flex;
+    width: 1000px;
+    height: 1000px;
+
+}
+div #divpg2{
+    margin-left: 225px;
+}
+#texto{ 
+    font-size: 80px;
+    width: 1000px;
+    height: 1000px;
+    
+}
+#hpg2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+  
